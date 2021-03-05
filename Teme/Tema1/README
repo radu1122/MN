@@ -1,0 +1,35 @@
+Copyright 2020 Radu-Andrei Dumitrescu 312CA
+
+-------------------------------------------
+
+Task 1:
+	- am implementat gsp cu un algoritm pe care l-am dedus printr-un proces de reverse eng pe exemplul vostru
+	- la Matrix to csr am implementat un algoritm clasic de row sparse
+	- factorizarea Jacobi cu matrice am implementat-o dupa formulele invatate la seminar
+	- aceleasi lucru si la Jacobi sparse, am continuat implementarea de la seminar
+	
+-------------------------------------------
+
+Task 2: 
+	- am intampinat multe probleme aici pentru ca nu a fost clar enuntul de la inceput si au fost niste teste gresite pe checker
+	- implementarea a fost de k-means basic, nu am ales vreo metoda prea complicata
+	
+-------------------------------------------
+
+Task 3:
+	- aici am intampinat cateva probleme pentru ca eu faceam rgb Histo cu imhist, care are un output mai bun, dar nu cel dorit aici
+	- acelasi lucru si la hsv
+	- Householder si SST am implementat dupa specificatiile de la seminar
+
+-------------------------------------------
+
+Task 4:
+	- enuntul nu a fost deloc clar 
+	
+-------------------------------------------
+
+Feedback:
+	- foarte faina tema overall, m-a facut sa imi placa MN-ul
+	- nu mi-a placut ca desi ne-ati dat sa facem ML(kind of) am avut foarte multe restrictii
+	- putin cam ambiguu textul taskurilor la inceput
+	- in rest all good

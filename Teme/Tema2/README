@@ -1,0 +1,19 @@
+Copyright 2020 Radu-Andrei Dumitrescu 312CA
+
+-------------------------------------------
+
+Task 1:
+  - am implementat total vectorizat algoritmul iterativ pentru page rank
+  - nu am intampinat probleme 
+  
+-------------------------------------------
+
+Task 2:
+  - am realizat implementarea vectorizata a algoritmului algebric de page rank
+  - nu au fost probleme 
+  
+-------------------------------------------
+
+Task 3:
+  - am implementat functia u
+  - am afisat conform cerintei datele de la primele 2 taskuri
